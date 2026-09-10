@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+*.lic
+*.log
+.env
+tmp/
+temp/
+gurobi_nodefiles/
+.DS_Store
+Thumbs.db
