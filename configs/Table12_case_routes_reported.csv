@@ -1,0 +1,7 @@
+﻿Route,Platform,UAV model,Monitoring points,Number,Main service object,Feasibility
+Route 1,P01,Type A — Light Inspection UAV,M001–M017,17,"Auxiliary facilities, dense edge points, and utility-related routine inspection",NFZ-safe; β-feasible
+Route 2,P02,Type B — Medium Long-Endurance UAV,M018–M039,22,"Peripheral storage area, port-supporting belt, and corridor inspection",NFZ-safe; β-feasible
+Route 3,P03,Type C — Heavy-Duty UAV,M040–M060,21,Core process units and hazardous-source surroundings,NFZ-safe; β-feasible
+Route 4,P04,Type B — Medium Long-Endurance UAV,M061–M078,18,Storage tank area and adjacent main pipe-rack corridor,NFZ-safe; β-feasible
+Route 5,P05,Type C — Heavy-Duty UAV,M079–M095,17,Public engineering area and emergency-support-related facilities,NFZ-safe; β-feasible
+Total,5 platforms,5 deployed UAVs from three UAV types,M001–M095,95,Full coverage of the case park,All feasible

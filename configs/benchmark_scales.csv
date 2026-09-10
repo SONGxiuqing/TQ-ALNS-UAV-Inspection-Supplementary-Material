@@ -1,0 +1,4 @@
+﻿scale,opened_platforms,candidate_platforms,monitoring_points,hazardous_sources,no_fly_zones,uavs,platform_opening_constraint,random_seed
+Small-scale,3,7,16,3,2,3,3,7
+Medium-scale,4,15,50,3,3,4,4,7
+Large-scale,14,18,300,20,2,14,14,7

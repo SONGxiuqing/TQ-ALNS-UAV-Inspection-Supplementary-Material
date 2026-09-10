@@ -1,0 +1,4 @@
+﻿Instance size,Candidate platform sites (opened/total candidate platforms),Number of monitoring points,Number of hazardous sources,Number of no-fly zones,Number of UAVs,Platform-opening constraint,Random seed
+Small-scale,3/7,16,3,2,3,3,7
+Medium-scale,4/15,50,3,3,4,4,7
+Large-scale,14/18,300,20,2,14,14,7

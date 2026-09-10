@@ -1,0 +1,5 @@
+﻿Configuration,UAV type setting,Runs,Valid runs,BKS,Mean total cost (10⁴ RMB),Dev. from BKS (%),Std. Dev.,CV (%),Mean completion time (h),Mean open platforms,Mean deployed UAVs,Mean coverage rate (%),Feasibility rate (%),Average route length (km)
+All-light,Type A only,10,10,148.64,148.64,0.00,1.05,0.71,10.12,4.00,4.00,99.20,100.00,4.20
+All-medium,Type B only,10,10,148.64,190.05,27.86,0.004,0.002,11.61,4.00,4.00,100.00,100.00,4.86
+All-heavy,Type C only,10,10,148.64,216.47,45.63,11.38,5.26,17.54,4.00,4.00,100.00,100.00,6.84
+Heterogeneous,Type A + Type B + Type C,10,10,148.64,165.85,11.57,20.32,12.25,10.97,4.00,4.00,100.00,100.00,4.65

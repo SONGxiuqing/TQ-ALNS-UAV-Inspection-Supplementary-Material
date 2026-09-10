@@ -1,0 +1,9 @@
+﻿instance_id,scale,monitoring_points,opened_platforms,candidate_platforms,hazardous_sources,instance_seed
+M50,medium,50,4,12,6,20260950
+M60,medium,60,4,12,6,20260960
+M70,medium,70,4,12,6,20260970
+M80,medium,80,4,12,6,20260980
+L100,large,100,5,15,8,20261000
+L120,large,120,5,15,8,20261020
+L150,large,150,6,18,10,20261050
+L170,large,170,6,18,10,20261070

@@ -1,0 +1,11 @@
+﻿Category,Item,Setting
+Case scale,Candidate platform sites,20
+Case scale,Monitoring points,95
+Case scale,Hazardous sources,5
+Case scale,Fixed no-fly zones,3
+Planning setting,Maximum opened platforms,5
+Planning setting,Planning horizon,24 h
+Planning setting,Confidence level of energy chance constraint,(=0.95)
+Cost setting,Platform construction cost,"RMB 250,000 per platform"
+Cost setting,Energy cost,RMB 0.8/km
+Cost setting,Uncovered-point penalty,"RMB 15,000 per point"
